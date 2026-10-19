@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "product-search"
+  x-cortex-tag: "product-search"
+  x-cortex-description: "Full-text and faceted product search API"
+  x-cortex-owners:
+    - type: group
+      name: "eCommerce Platform Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001202"
+    apm_name: "Search & Product Discovery"
+    cost_center: "CC-4210"
